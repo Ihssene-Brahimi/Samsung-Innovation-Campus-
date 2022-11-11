@@ -1,6 +1,6 @@
 # Samsung Innovation Campus
 
-<img src="https://github.com/Ihssene-Brahimi/Samsung-Innovation-Campus-/sic.png"/>
+<img src="https://github.com/Ihssene-Brahimi/Samsung-Innovation-Campus-/blob/main/sic.png"/>
 
 Samsung Innovation Campus is a 4 month-long program offered by Samsung Electronics in partnership with Gomycode Algeria for talented students with tech backgrounds to study the fundamentals of Data science, and apply it to solve real life challenges. The program's content is rich with high quality courses, exercises, Mini-projects and a final capstone project in the last month. The topics covered in this program are mainly : Python, Probability and Statistics, Linear Algebra, Machine Learning, Deep Learning, Transfer Learning, GANs, Tensorflow, etc.
 
